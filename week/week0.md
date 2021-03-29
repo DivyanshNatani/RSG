@@ -71,6 +71,8 @@ Scope refers to the visibility of variables. In other words, which parts of your
 
 The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function. Using recursive algorithm, certain problems can be solved quite easily.
 
+**Note:If you are familiar with above basics of python, then we suggest you to go through some tutorials of python on youtube.**
+
 
 
 

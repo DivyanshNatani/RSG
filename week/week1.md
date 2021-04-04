@@ -45,7 +45,7 @@ In this tutorial, we will build a poll app, with detailed instructions available
 
 This tutorial is quite detailed(as expected, its a official tutorial). Try to go through and understand discription of every code, what it does. Try experimenting, dont just blindly copy code for sake of compleating the tutorial. This is a major resource, there is lots of help available on internet. You can just search your errors/doubts on google to get clarefied or can ask on whatsapp group.
 
-At, the end of this tutorial, you will have basic knowledge of how django works.
+At the end of this tutorial, you will have basic knowledge of how django works.
 
 This tutorial will take just 15min(if you blindly copy) to 2-hours. In your extra time, you can surf on internet and see what projects can be done on django and try watching one live coded project(30-45 min if you watch in x2 :p). Just search django on youtube and see how much is available.
 

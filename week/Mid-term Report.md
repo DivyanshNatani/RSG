@@ -15,5 +15,5 @@ In this report you can also add your own exploration part if you did any related
 So start working on report immediately, make an amazing report using your creativity in Latex 😎😎.
 
 
-Send your latex report to vedantsultania36@gmail.com or divyansh.natani@gmail.com before 11:59 pm 16th May,21
+Send your latex report to vedantsultania36@gmail.com and divyansh.natani@gmail.com(keep 1 in Cc) before 11:59 pm 16th May,21
  

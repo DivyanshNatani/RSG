@@ -14,7 +14,7 @@ We will be following 6 week timeline with rough estimate as:
 Midsem/Endsem Break 
 ---
 
-### [Mid-Project report submission](https://github.com/Ved4Code/RSG/blob/main/week/Mid-term%20Report.md) (2-page) (last date 10-05-21)
+### [Mid-Project report submission](https://github.com/Ved4Code/RSG/blob/main/week/Mid-term%20Report.md) (2-page) (last date 16-05-21)
 
 Further timeline will be decided on mutual discussion, planning and work distribution.
 

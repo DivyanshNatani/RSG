@@ -1,7 +1,7 @@
 As described in the meeting, we will have to prepare a proper document with all the possible features.
 
 You all would have recived a mail with a resume .tex script.
-Please create a google sheet, reply all on same thread with link of the google sheet. 
+Please create a google sheet, reply (cc: divyansh.natani@gmail.com) on same thread with link of the google sheet. 
 
 On sheet, you need to make a list of features that are in the resume.
 

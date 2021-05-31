@@ -16,6 +16,8 @@ Midsem/Endsem Break
 
 ### [Mid-Project report submission](https://github.com/Ved4Code/RSG/blob/main/week/Mid-term%20Report.md) (2-page) (last date 16-05-21)
 
+
+### [Week-3](https://github.com/Ved4Code/RSG/blob/main/week/week3.md) : Finding features of resume to be added in mid-doc (1-06-21 to 8-06-21)
 Further timeline will be decided on mutual discussion, planning and work distribution.
 
 For any queries, please use the Whatsapp group only!
